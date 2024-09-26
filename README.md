@@ -1,5 +1,5 @@
 # abcc_automated_QC
-This repo has the code for automated_QC (structural QC as well as functional QC) performed on abcc data processed using the [abcd-hcp-pipeline](https://github.com/DCAN-Labs/abcd-hcp-pipeline/) <br>
+This repo has the code for automated_QC (structural QC as well as functional QC) performed on abcc data processed using the [abcd-hcp-pipeline](https://github.com/DCAN-Labs/abcd-hcp-pipeline/) and file-mapped using [DCAN Lab's file-mapper](https://github.com/DCAN-Labs/file-mapper/)<br>
 # Structural QC
 The following are automated metrics for evaluating processed structural data quality:<br>
 
