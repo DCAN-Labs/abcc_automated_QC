@@ -16,8 +16,7 @@ The following are automated metrics for evaluating processed structural data qua
       `python3 ./Cortical_morphometry_surface_outlier_detection.py ${output_base_dir} ${pscalar_label_file} ${tsv_file}`<br><br>
     <b>Returns:</b><br>
        An updated tsv file with an additional column `#cortical_morphometry_sulc_out`, showing the number of outliers for each subject and session<br><br>
-       
-  <b> Parameters:</b><br>
+ <b> Parameters:</b><br>
   * output_base_dir: directory where you have all *_space-fsLR32k_sulc.pscalar.nii, *_space-ACPC_dseg.nii.gz files stored<br>
   * dseg_label_file: ./dseg_label.txt <br>
   * pscalat_label_file: Gordon.32k_fs_LR.dlabel.nii<br>
