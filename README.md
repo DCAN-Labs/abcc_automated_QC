@@ -19,7 +19,7 @@ The following are automated metrics for evaluating processed structural data qua
  <b> Parameters:</b><br>
   * output_base_dir: directory where you have all *_space-fsLR32k_sulc.pscalar.nii, *_space-ACPC_dseg.nii.gz files stored<br>
   * dseg_label_file: ./dseg_label.txt <br>
-  * pscalat_label_file: Gordon.32k_fs_LR.dlabel.nii<br>
+  * pscalar_label_file: Gordon.32k_fs_LR.dlabel.nii<br>
   * tsv_file: participants.tsv<br>
 
 # Functional QC 
