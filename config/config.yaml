@@ -1,0 +1,19 @@
+output_filename: desc-abcc-automated-qc
+
+tasks:
+  - rest
+  - mid
+  - sst
+  - nback
+
+atlases:
+  - Gordon
+  - MIDB
+  - HCP
+
+coverage_threshold: 0.90
+brain_coverage_pass: 90
+
+outlier_sigma: 3
+
+n_jobs: 32
