@@ -1,0 +1,4 @@
+previous_script
+*.err
+*.out
+__pycache__
